@@ -1,7 +1,7 @@
 {
     "name":"Sylan's VRChat Packages",
     "id":"com.sylan.vcc-listing",
-    "url":"https://sylantroh.github.io/SylanVCC/index.json",
+    "url":"https://SylanTroh.github.io/SylanVCC/index.json",
     "author":{
         "email":"sylantroh@gmail.com",
         "name":"Sylan Troh",
@@ -9,7 +9,7 @@
     },
     "description":"Packages for VRChat",
     "infoLink":{
-        "url":"https://github.com/SylanTroh/SylanVCCListing",
+        "url":"https://github.com/SylanTroh/SylanVCC",
         "text":"GitHub"
     },
     "bannerUrl":"banner.png",
