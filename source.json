@@ -15,7 +15,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "SylanTroh/GMMenu",
-        "SylanTroh/AudioManager"
+        "SylanTroh/AudioManager",
+        "SylanTroh/VRTUtils"
     ],
     "packages":[
     ]
